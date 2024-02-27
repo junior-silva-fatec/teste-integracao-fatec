@@ -1,1 +1,2 @@
 Este é um teste.
+Adição de uma linha.
